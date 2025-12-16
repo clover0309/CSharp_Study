@@ -58,7 +58,7 @@ namespace NumberGame
 
             if(start == 1)
             {
-                button2.Text = "게임이 시작되었습니다." + findNumber;
+                button2.Text = "게임이 시작되었습니다.";
                 button2.Enabled = false;
                 button1.Enabled = true;
             }
