@@ -1,0 +1,16 @@
+E:\CSharp_study\NumberGame\NumberGame\bin\Debug\net10.0-windows\NumberGame.exe
+E:\CSharp_study\NumberGame\NumberGame\bin\Debug\net10.0-windows\NumberGame.deps.json
+E:\CSharp_study\NumberGame\NumberGame\bin\Debug\net10.0-windows\NumberGame.runtimeconfig.json
+E:\CSharp_study\NumberGame\NumberGame\bin\Debug\net10.0-windows\NumberGame.dll
+E:\CSharp_study\NumberGame\NumberGame\bin\Debug\net10.0-windows\NumberGame.pdb
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.Form1.resources
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.csproj.GenerateResource.cache
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.AssemblyInfoInputs.cache
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.AssemblyInfo.cs
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.csproj.CoreCompileInputs.cache
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.dll
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\refint\NumberGame.dll
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.pdb
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\NumberGame.genruntimeconfig.cache
+E:\CSharp_study\NumberGame\NumberGame\obj\Debug\net10.0-windows\ref\NumberGame.dll
